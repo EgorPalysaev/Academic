@@ -40,4 +40,3 @@ int main(void){
     printf("\nSum is %d", sum);
     return 0;
 }
-
